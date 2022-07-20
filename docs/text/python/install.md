@@ -14,16 +14,14 @@ For Linux:
 ```bash
 #install the latest 64-bit version
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
-```
 
-```bash
 # install in batch mode
 bash Miniconda3-latest-Linux-x86_64 -b 
 ```
 
 
 If this is your first time installing, make sure you run this code to add conda to your path:
-`~/miniconda3/condabin/conda init`
+```~/miniconda3/condabin/conda init```
 
 
 ## Create a Working Environment
@@ -55,10 +53,10 @@ To avoid installing dependencies with pip, you can use the option `--no-deps` - 
 
 ```zsh
 # clone the ipyrad repo to get git development version
-git clone [repo URL]
+git clone https://github.com/elissasoroj/shadie
 
 # cd into the cloned local repo folder
-cd ipyrad/
+cd shadie/
 
 # do local pip install (-e) with --no-deps 
 pip install -e . --no-deps

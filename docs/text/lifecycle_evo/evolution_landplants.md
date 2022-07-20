@@ -2,21 +2,21 @@
 
 All sexually reproducing organisms have a life cycle that alternates between a haploid and diploid life stage. In many animals, especially vertebrates, the haploid life stage (sperm and egg) is so short-lived that we hardly consider it, as the dominant part of the life cycle is clearly the diploid. 
 
-![simple life cycle diagram - animal](assets/alc.png#med)
+![simple life cycle diagram - animal](assets/alc.png#med-large)
 
 In plants, things are very different. The diploid life stage is called the sporophyte, and in some lineages of plants this is the dominant life stage. However, in some plants, such as mosses, the dominant life stage is actually the haploid life stage, which is called the gametophyte. Only the gametophyte life stage in plants make gametangia - the sexual organs where egg and sperm are produced. Many plant researchers like to joke that sporophytes are asexual - they are not capable of having sex and cannot be male or female. Only the gametophytes can be male or female, and only the gametophytes have sex!
 Land plants also have a special step in their life cycle that vertebrates do not: the spore. Spores are produced by the sporophyte and give rise the gametophyte, in much the same way that the zygote (i.e. the seed, in seed plants) gives rise to the sporophyte. 
 
-There is a nice symmetry to the terms here:
-During the haploid life stage: the **gam**etophyte makes **gam**etangia, where **gam**etes are produced
+There is a nice symmetry to the terms here:<br>
+During the haploid life stage: the **gam**etophyte makes **gam**etangia, where **gam**etes are produced. <br>
 During the diploid life stage: the **spor**ophyte makes **spor**angia, where the **spor**es are produced
 
-![simple life cycle diagram - plant](assets/plc.png)
+![simple life cycle diagram - plant](assets/plc.png#med-large)
 
 ## Evolution of the Land Plant Lifecycle
 Land plants, or Embryophytes, are a monophyletic clade that includes flowering plants, conifers, ferns, lycophytes, mosses, hornworts, and liverworts. Fittingly, most of these plants live out of water, although some have returned to a completely aquatic lifestyle.
 
-[land plant phylogeny]
+![land plant phylogeny](assets/phylogeny.png#large)
 
 It is hypothesized ([de Vries & Archibald, 2017](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14975)) that all land plants evolved from a shared charophyte-like algal ancestor. Charophyte algae is photosynthetic and has a multiceulluar, **haploid** adult life stage that forms two sex organs: the male antheridium and female oogonium. When sperm from the antheridium and an egg from the oogonium fuse, they create a single-celled diploid zygote which immediately undergoes meiosis to create more haploid adults. 
 

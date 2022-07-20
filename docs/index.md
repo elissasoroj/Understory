@@ -1,5 +1,3 @@
-# 
-
 ![Understory Logo](assets/understory.png#logo)
 
 <center><h2>is an educational framework for providing access to meaningful education & research opportunities for post-secondary students and undergraduates; developed in conjunction with <samp>shadie</samp>. </h2></center>
