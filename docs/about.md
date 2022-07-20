@@ -1,4 +1,4 @@
-???+ tip "Before You Start Bushwhacking!"
+???+ warning "Before You Start Bushwhacking!"
 
     <center>This site is currently under construction, but you are welcome to poke around! <br> The wheel barrow icon :material-wheel-barrow: indicates features that may not be released yet. <br>
     If you have time to provide some feedback, please do at this link: , or direct comments and suggestions to ess2239@columbia.edu</center>
