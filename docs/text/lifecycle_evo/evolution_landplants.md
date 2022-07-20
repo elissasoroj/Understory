@@ -18,7 +18,7 @@ Land plants, or Embryophytes, are a monophyletic clade that includes flowering p
 
 ![land plant phylogeny](assets/phylogeny.png#large)
 
-It is hypothesized ([de Vries & Archibald, 2017](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14975)) that all land plants evolved from a shared charophyte-like algal ancestor. Charophyte algae is photosynthetic and has a multiceulluar, **haploid** adult life stage that forms two sex organs: the male antheridium and female oogonium. When sperm from the antheridium and an egg from the oogonium fuse, they create a single-celled diploid zygote which immediately undergoes meiosis to create more haploid adults. 
+It is hypothesized ([de Vries & Archibald, 2018](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14975)) that all land plants evolved from a shared charophyte-like algal ancestor. Charophyte algae is photosynthetic and has a multiceulluar, **haploid** adult life stage that forms two sex organs: the male antheridium and female oogonium. When sperm from the antheridium and an egg from the oogonium fuse, they create a single-celled diploid zygote which immediately undergoes meiosis to create more haploid adults. 
 
 [ancestral life cycle diagram]
 
@@ -79,14 +79,14 @@ Some of these terms, especially monoicy/dioicy and monecy/dioecy can be very con
 
 You may see the term dioecious applied to non-spermatophyte lineages. In particular, this term is often used in older literature when describing Bryophytes. The intent is to refer to a dioicous life cycle, however this is an incorrect use of the term and you should automatically translate it to 'dioicous' in your head when you encounter it used in this way. 
 
-monoicous vs. dioicous = single vs. two gametophyte sexes
-homosporous vs. heterosporous = same vs. different spores
-monecious vs. dioecious = single vs. two flower types
+**monoicous vs. dioicous** = single vs. two gametophyte sexes <br>
+**homosporous vs. heterosporous** = same vs. different spores <br>
+**monecious vs. dioecious** = single vs. two flower types <br>
 
 ![Sexual Systems](assets/sexual-systems_wtitles.png#outline)
 
 ## Image Downloads
-Images are free to download and use in presentations, for teaching purposes, or study materials. When re-using, please credit the illustrator when possible: **Elissa Sorojsrisom**
+Images are free to download and use in presentations, for teaching purposes, or study materials. When re-using, please credit the illustrator, **Elissa Sorojsrisom**, and when possible linke back to this resource (https://elissasoroj.github.io/Understory/). 
 
 **Life Cycle Comparison**|**Sexual Systems**|**Simplified Life Cycles**
 :-------------------------:|:---------------------:|:-------------------------------:

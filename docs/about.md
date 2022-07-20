@@ -11,3 +11,6 @@ Access to meaningful research opportunities at the post-secondary and undergradu
 2. Outside Resources: for learning more about the topics covered (open-access where possible)
 3. Research Guide: a tutorial-style guide for students to help them develop a research project utilizing `shadie`. Appropriate for advanced high school and undergraduate students
 4. :material-wheel-barrow: Research Hub: an online home where outcomes of research projects utilizing shadie can be accessed. This hub is maintained on the `shadie` documentation site, but Understory provides specific instructions encouraging students to contribute to this resource. This allows them to engage with the community, publish their work informally, and for scientists in the field to benefit from what they find.
+
+
+test :mushroom: and :trees:
