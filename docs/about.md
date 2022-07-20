@@ -16,4 +16,4 @@ Access to meaningful research opportunities at the post-secondary and undergradu
 
 test :mushroom: and :trees:
 
-:.icons-trees: and :.icons-mushroom:
+:tabler-trees: and :tabler-mushroom:
