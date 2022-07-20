@@ -1,7 +1,8 @@
 ???+ warning "Before You Start Bushwhacking!"
 
     <center>This site is currently under construction, but you are welcome to poke around! <br> The wheel barrow icon :material-wheel-barrow: indicates features that may not be released yet. <br>
-    If you have time to provide some feedback, please do at this link: , or direct comments and suggestions to ess2239@columbia.edu</center>
+    If you have time to provide some feedback, please use this <a href="https://forms.gle/S1oC61TRHzGJKvGCA">Google Form</a> <br>
+    ...or direct comments and suggestions to <a href="mailto:ess2239@columbia.edu">Elissa</a></center>
 
 Access to meaningful research opportunities at the post-secondary and undergraduate level for many students is challenging, and represents a significant barrier that prevents students from entering scientific fields. Leveraging the accessibility of simulation- and coding- based projects can help alleviate this gap in equity, allowing students to develop impactful research projects in a self-directed manner, even if they are resource-limited. 
 
@@ -14,3 +15,5 @@ Access to meaningful research opportunities at the post-secondary and undergradu
 
 
 test :mushroom: and :trees:
+
+:.icons-trees: and :.icons-mushroom:
