@@ -19,9 +19,19 @@ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 bash Miniconda3-latest-Linux-x86_64 -b 
 ```
 
+**For Mac and Linux only**
 
 If this is your first time installing, make sure you run this code to add conda to your path:
 ```~/miniconda3/condabin/conda init```
+
+For Windows:
+```bash
+#install the latest 64-bit version
+curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
+
+# install in batch mode
+start /wait "" Miniconda3-latest-Windows-x86_64.exe /InstallationType=JustMe /RegisterPython=0 /S /D=%UserProfile%\Miniconda3
+```
 
 
 ## Create a Working Environment
@@ -44,7 +54,7 @@ conda config --set channel_priority true
 ```
 
 Now, when you use the `conda` command to install, it will automatically install from conda-forge first:
-`conda install shadie`
+`conda install shadie` 
 
 ## Installing Local Packages
 When you install programs by cloning repositories on GitHub, you will use a local installation with `pip`.
@@ -52,7 +62,7 @@ When you install programs by cloning repositories on GitHub, you will use a loca
 To avoid installing dependencies with pip, you can use the option `--no-deps` - however, you will then need to make sure to install any dependencies separetly with Conda-forge. 
 
 ```zsh
-# clone the ipyrad repo to get git development version
+# clone the shadie repo to get git development version
 git clone https://github.com/elissasoroj/shadie
 
 # cd into the cloned local repo folder

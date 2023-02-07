@@ -5,16 +5,19 @@ site_author: Elissa Sorojsrisom
 #to see dummy site: mkdocs serve
 
 # Copyright
-copyright: Copyright &copy; 2022 Elissa Sorojsrisom
+copyright: Copyright &copy; 2023 Elissa Sorojsrisom
 
 nav:
   - Home: index.md
   - About: about.md
   - CHAPTERS:
+    - Introduction: drafts/text-index.md
     - Evolution:
-      - Tree-Thinking: tree-think.md
+      #- drafts/evolution-index.md
+      #- Tree-Thinking: tree-think.md
       - Plant Lifecycle Evolution: text/lifecycle_evo/evolution_landplants.md
     - Python: 
+      - Coding as a Biologist: text/python/index.md
       - Installing Python: text/python/install.md
       - Installing and Using Jupyter: text/python/jupyter.md
   - Independent Research:
@@ -50,7 +53,7 @@ theme:
       tip: octicons/squirrel-16
       success: octicons/check-16
       question: octicons/unverified-16
-      warning: mushroom
+      warning: octicons/unverified-16
       failure: octicons/x-circle-16
       danger: octicons/zap-16
       bug: octicons/bug-16
@@ -63,12 +66,11 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.expand
+    - navigation.path
     # - header.autohide
 
 #Python Markdown Extentions
 markdown_extensions:
-  - toc:
-      toc_depth: 4
   - markdown.extensions.codehilite:
       guess_lang: false      
   - admonition
