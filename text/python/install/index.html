@@ -844,18 +844,18 @@ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 <span class="c1"># install in batch mode</span>
 bash Miniconda3-latest-Linux-x86_64.sh -b 
 </code></pre></div></p>
-<h3 id="add-conda-to-your-path">Add conda to your path</h3>
-<p><strong>For Mac and Linux only</strong></p>
-<p>If this is your first time installing, make sure you run this code to add conda to your path:
-<code>~/miniconda3/condabin/conda init</code></p>
-<p>Then <strong>restart your terminal</strong> for changes to take effect. </p>
-<p><strong>For Windows:</strong>
+<p>For Windows:
 <div class="highlight"><pre><span></span><code><span class="c1">#install the latest 64-bit version</span>
 curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
 
 <span class="c1"># install in batch mode</span>
 start /wait <span class="s2">&quot;&quot;</span> Miniconda3-latest-Windows-x86_64.exe /InstallationType<span class="o">=</span>JustMe /RegisterPython<span class="o">=</span><span class="m">0</span> /S /D<span class="o">=</span>%UserProfile%<span class="se">\M</span>iniconda3
 </code></pre></div></p>
+<h3 id="add-conda-to-your-path">Add conda to your path</h3>
+<p><strong>For Mac and Linux only</strong></p>
+<p>If this is your first time installing, make sure you run this code to add conda to your path:
+<code>~/miniconda3/condabin/conda init</code></p>
+<p>Then <strong>restart your terminal</strong> for changes to take effect. </p>
 <h3 id="troubleshooting">Troubleshooting</h3>
 <p><em>For Mac only</em>. If your install was successul, but your computer is still unable to find <code>conda</code> you may have to add it to your path manually. Find the <code>.zprofile</code> and/or <code>.zshrc</code> file (your computer may have one or both) by navigating to your <code>/home/username</code> directory and using the command:
 <div class="highlight"><pre><span></span><code>ls -a
