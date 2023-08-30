@@ -19,6 +19,15 @@ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 bash Miniconda3-latest-Linux-x86_64.sh -b 
 ```
 
+For Windows:
+```bash
+#install the latest 64-bit version
+curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
+
+# install in batch mode
+start /wait "" Miniconda3-latest-Windows-x86_64.exe /InstallationType=JustMe /RegisterPython=0 /S /D=%UserProfile%\Miniconda3
+```
+
 ### Add conda to your path
 **For Mac and Linux only**
 
@@ -27,15 +36,6 @@ If this is your first time installing, make sure you run this code to add conda 
 
 Then **restart your terminal** for changes to take effect. 
 
-
-**For Windows:**
-```bash
-#install the latest 64-bit version
-curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
-
-# install in batch mode
-start /wait "" Miniconda3-latest-Windows-x86_64.exe /InstallationType=JustMe /RegisterPython=0 /S /D=%UserProfile%\Miniconda3
-```
 
 ### Troubleshooting
 
